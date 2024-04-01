@@ -1,6 +1,6 @@
 <h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝚁𝚘𝚋𝚎𝚛𝚝</h1>
 <p align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝙺𝚒𝚗𝚐𝚍𝚘𝚖!</p>
-🌏 Future Front-end Developer!<br>🤓 Facts about me: <br>🦮 • I love dogs, especially Border Collies<br>💜 • My favourite color is purple
+🌏 Front-end developer with backend experience!<br>🤓 Facts about me: <br>🦮 • I love dogs, especially Border Collies<br>💜 • My favourite color is purple
 
 
 ## 🌐 Socials:
