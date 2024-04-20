@@ -1,6 +1,12 @@
-<h1 align="center">𝙷𝚒 👋, 𝙸'𝚖 𝚁𝚘𝚋𝚎𝚛𝚝</h1>
-<p align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝙺𝚒𝚗𝚐𝚍𝚘𝚖!</p>
-🌏 Fullstack developer<br>🤓 Facts about me: <br>• I love dogs, especially Border Collies 🦮<br>• My favourite color is purple 💜
+<h1 align="center">Hi, Cześć, Bonjour, Hallo, Hola, Ciao, Привет (Privet), こんにちは (Konnichiwa), 你好 (Nǐ hǎo), مرحبا (Marhaba) 👋</h1>
+<p align="center"><em>„Simplicity is a wonderful quality of extraordinary people”</em></p>
+<br>
+✔️ Fan of:<br>
+- MVC<br>
+- Strong typing<br>
+- Not reinventing the wheel<br>
+- Clean code structure<br>
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://m.facebook.com/profile.php?id=100008614810091) 
