@@ -4,7 +4,7 @@
 
 ### Glad to see you!
 
-I'm a Fullstack Developer with strong focus on technologies on <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' width="16"> **React** and **React Native**, while also having hands-on experience with a variety of other technologies detailed below.
+I'm a Fullstack Developer with strong focus on <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' width="16"> **React** and **React Native**, while also having hands-on experience with a variety of other technologies detailed below.
 
 I believe there’s always a way forward—problems are meant to be solved, not dwelled on.
 
