@@ -15,7 +15,7 @@ Outside of coding, I enjoy traveling, working out, and exploring my passion for 
 
 Currently, I'm developing my own app, Cashlo. 🚀
 
-I just love what i do.
+I just love what i do, and I'm great at what i do :)
 
 <img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
 <br>
