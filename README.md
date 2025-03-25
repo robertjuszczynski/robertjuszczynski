@@ -8,11 +8,8 @@ I'm a Fullstack Developer with strong focus on <img src='https://upload.wikimedi
 js**, while also having hands-on experience with a variety of other technologies detailed below.
 
 I believe there’s always a way forward—problems are meant to be solved, not dwelled on.
-
 Though I’m a dog lover at heart, life has blessed me with two incredible cats.
-
 Outside of coding, I enjoy traveling, working out, and exploring my passion for music.
-
 Currently, I'm developing my own app, Cashlo. 🚀
 
 I just love what i do, and I'm great at what i do :)
