@@ -7,7 +7,7 @@
 I'm a Fullstack Developer with strong focus on <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png' width="16"> **React** and <img src ="https://img.icons8.com/?size=100&id=54087&format=png&color=000000*" width="16" /> **Node.
 js**, while also having hands-on experience with a variety of other technologies detailed below.
 
-I believe there’s always a way forward—problems are meant to be solved, not dwelled on.
+I believe there’s always a way forward. Problems are meant to be solved, not dwelled on.
 Though I’m a dog lover at heart, life has blessed me with two incredible cats.
 Outside of coding, I enjoy traveling, working out, and exploring my passion for music.
 Currently, I'm developing my own app, Cashlo. 🚀
