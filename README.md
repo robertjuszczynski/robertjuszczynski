@@ -17,9 +17,18 @@ Outside of coding, I enjoy traveling, working out, listening to music, and spend
 I believe there’s always a way forward. Problems are meant to be solved, not dwelled on.
 
 I just love what i do, and I'm great at what i do :)
-
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300"'>
 <br>
+<h3 align="center">
+  Yeah, I use the terminal for everything I can... Who needs Spotify?
+</h3>
+<br>
+<p align="center">
+  <img
+    src="./clijukebox.png"
+    width="100%"
+    alt="Wannacry"
+  >
+</p>
 ✔️ Fan of:<br>
 - OOP<br>
 - Strong typing<br>
