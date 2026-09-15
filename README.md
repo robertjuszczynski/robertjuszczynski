@@ -57,17 +57,17 @@ I just love what i do, and I'm great at what i do :)
 
 <br>
 
-
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=robertjuszczynski&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=robertjuszczynski&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=robertjuszczynski&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/Lny6Rw04nsOOc/giphy.gif"
+    width="100%"
+    alt="Footer animation"
+  >
+</p>
 
-  
-[![](https://visitcount.itsvg.in/api?id=robertjuszczynski&icon=6&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+<h1 align="center">The end</p>
