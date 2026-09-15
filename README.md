@@ -9,6 +9,8 @@ I'm a Full-stack Developer with **~5 years of experience**, mostly working with 
 
 I like solving problems, experimenting with new ideas, and figuring out how things work under the hood. I'm also a bit of a nerd: I started on Windows, moved to Linux, and now I use a Mac with the Dock permanently placed on the left because old habits die hard.
 
+I've worked on several commercial projects involving AI integrations in real products and internal systems. This included RAG-based solutions, agentic workflows, graph workflows, model integrations, and the less glamorous production work around reliability, performance, and cost. Turning AI from a cool demo into something people can actually use is satisfying 🛰️
+
 Currently, I'm building Gitastic - a modern Git GUI made with Electron, with AI integrations using LangChain and LangGraph. Maybe I’ll even rewrite it in Rust one day, just because 🦀
 
 Outside of coding, I enjoy traveling, working out, listening to music, and spending time with my little home crew: one dog and two cats.
