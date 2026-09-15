@@ -1,6 +1,5 @@
 <h1 align="center">Hi, Cześć, Bonjour, Hallo, Hola, Ciao, Привет (Privet), こんにちは (Konnichiwa), 你好 (Nǐ hǎo), مرحبا (Marhaba) 👋</h1>
 <p align="center"><em>„Simplicity is a wonderful quality of extraordinary people”</em></p> 
-<br>
 
 ### Glad to see you!
 
@@ -18,8 +17,9 @@ I believe there’s always a way forward. Problems are meant to be solved, not d
 
 I just love what i do, and I'm great at what i do :)
 <br>
+<br>
 <h3 align="center">
-  Yeah, I use the terminal for everything I can... Who needs Spotify?
+  Yeah, I use the terminal for everything, even listening to music... Who needs Spotify? 🎵
 </h3>
 <br>
 <p align="center">
@@ -33,7 +33,18 @@ I just love what i do, and I'm great at what i do :)
 - OOP<br>
 - Strong typing<br>
 - Not reinventing the wheel<br>
-<br>
+
+### **The usual development cycle (before AI 😢)** 🌀
+
+```text
+⌨️ Writing code                          ████░░░░░░░░░░░░░░   20%
+🐛 Debugging the code                    ██████░░░░░░░░░░░░   30%
+🔎 Searching Stack Overflow              ████░░░░░░░░░░░░░░   20%
+🩹 Fixing one bug, creating two more     ███░░░░░░░░░░░░░░░   15%
+♻️ Refactoring code that already worked  ██░░░░░░░░░░░░░░░░   10%
+☕ Wondering why it suddenly works        █░░░░░░░░░░░░░░░░░    5%
+```
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://m.facebook.com/profile.php?id=100008614810091) 
